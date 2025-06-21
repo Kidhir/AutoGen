@@ -1,7 +1,17 @@
+# Core Data Libraries
 pandas
 matplotlib
 seaborn
 scikit-learn
+tabulate
+
+# LLM & Agent Support
 openai
 autogenstudio
-tabulate
+fix-busted-json  # required for ollama in autogen
+
+# Frontend
+streamlit
+
+# Optional: For local LLMs
+# ollama
